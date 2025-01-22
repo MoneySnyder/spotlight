@@ -1,7 +1,6 @@
 {
-    "name": "src",
-        "tree": {
-            "$className": "Folder",
-            "$path": "src"
-        }
-    }
+  "name": "spotlight",
+  "tree": {
+    "$path": "src"
+  }
+}

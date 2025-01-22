@@ -1,0 +1,6 @@
+{
+	"aliases": {
+		"src": "./",
+		"Spotlight": "./src/Spotlight/init.server.lua"
+	}
+}
