@@ -1,6 +1,15 @@
 {
 	"aliases": {
 		"src": "./",
-		"Spotlight": "./src/Spotlight/init.server.lua"
+		"Stylesheet": "./src/config/Stylesheet.lua",
+		"src": "./src/init.server.luau",
+		"SpotlightController": "./src/modules/SpotlightController.luau",
+		"SpotlightModel": "./src/modules/SpotlightModel.luau",
+		"SpotlightView": "./src/modules/SpotlightView.luau",
+		"Maid": "./src/packages/Maid.luau",
+		"SpotlightViewPane": "./src/ui/SpotlightViewPane.luau",
+		"Fzy": "./src/packages/Fzy.luau",
+		"SetProperty": "./src/plugins/SetProperty.luau",
+		"Signal": "./src/packages/Signal.luau"
 	}
 }
